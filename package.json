@@ -12,7 +12,7 @@
 		"react": "16.0.0-alpha.12",
 		"react-native": "0.47.1",
 		"react-native-fs": "^2.5.1",
-		"react-native-svg": "^5.4.1",
+		"react-native-svg": "https://github.com/msand/react-native-svg.git",
 		"react-native-view-shot": "^1.10.1",
 		"svgs": "^3.0.1"
 	},
