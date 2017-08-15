@@ -14,7 +14,8 @@
 		"react-native-fs": "^2.5.1",
 		"react-native-svg": "https://github.com/msand/react-native-svg.git",
 		"react-native-view-shot": "^1.10.1",
-		"svgs": "^3.0.1"
+		"svgs": "^3.0.1",
+		"victory-native": "^0.14.0"
 	},
 	"devDependencies": {
 		"babel-jest": "20.0.3",

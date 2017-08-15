@@ -28,6 +28,7 @@ import ViewBox from "./ViewBox";
 import Pallura from "./Pallura";
 import Anchor from "./anchor";
 import Baseline from "./baseline";
+import Chart from "./Chart";
 
 export {
   TextDecoration01,
@@ -60,4 +61,5 @@ export {
   Pallura,
   Anchor,
   Baseline,
+  Chart,
 };
