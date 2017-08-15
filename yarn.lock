@@ -3396,7 +3396,7 @@ react-native-fs@^2.5.1:
 
 "react-native-svg@https://github.com/msand/react-native-svg.git":
   version "5.4.1"
-  resolved "https://github.com/msand/react-native-svg.git#f32800bfbd90cf40765083eb42ced567bb910f5a"
+  resolved "https://github.com/msand/react-native-svg.git#68eeb5e6daa832dda5d6c9b2b3f15883419bee48"
   dependencies:
     color "^0.11.1"
     lodash "^4.16.6"
