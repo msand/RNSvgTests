@@ -35,9 +35,12 @@
 		2D02E4C91E0B4AEC006451C7 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA31DF850E9000B6D8A /* libReact.a */; };
 		2DCD954D1E0B4F2C00145EB5 /* RNSvgTestsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* RNSvgTestsTests.m */; };
 		37E32F46DB4F467EA2A9E267 /* libRNSVG.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E3E8A5FB37941D5BFE084C7 /* libRNSVG.a */; };
+		3ED6F18A717B45E387DAB9E6 /* AvenirNextLTPro-It.otf in Resources */ = {isa = PBXBuildFile; fileRef = 07F9E5F8A6B14B539B42F896 /* AvenirNextLTPro-It.otf */; };
 		5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
+		8C771FD9A75440AE842AD50F /* AvenirNextLTPro-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = ED97D317C28B4D6597C2C7B5 /* AvenirNextLTPro-Bold.otf */; };
 		BE4BC5E14CE64322AF925BB8 /* libRNFS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4271749C292F4E139240315E /* libRNFS.a */; };
+		C6D40AFB0F3048CE97E3B77F /* AvenirNextLTPro-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2AC365F209DE4C89927B8B5E /* AvenirNextLTPro-Regular.otf */; };
 		FEAC221CA17A4E09827D0F92 /* libRNViewShot.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 782F88C4A32F4E45B6DDC886 /* libRNViewShot.a */; };
 /* End PBXBuildFile section */
 
@@ -306,6 +309,7 @@
 		00E356EE1AD99517003FC87E /* RNSvgTestsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RNSvgTestsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* RNSvgTestsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNSvgTestsTests.m; sourceTree = "<group>"; };
+		07F9E5F8A6B14B539B42F896 /* AvenirNextLTPro-It.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "AvenirNextLTPro-It.otf"; path = "../static/fonts/AvenirNextLTPro-It.otf"; sourceTree = "<group>"; };
 		139105B61AF99BAD00B5F7CC /* RCTSettings.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTSettings.xcodeproj; path = "../node_modules/react-native/Libraries/Settings/RCTSettings.xcodeproj"; sourceTree = "<group>"; };
 		139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTWebSocket.xcodeproj; path = "../node_modules/react-native/Libraries/WebSocket/RCTWebSocket.xcodeproj"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* RNSvgTests.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RNSvgTests.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -316,6 +320,7 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = RNSvgTests/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = RNSvgTests/main.m; sourceTree = "<group>"; };
 		146833FF1AC3E56700842450 /* React.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = React.xcodeproj; path = "../node_modules/react-native/React/React.xcodeproj"; sourceTree = "<group>"; };
+		2AC365F209DE4C89927B8B5E /* AvenirNextLTPro-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "AvenirNextLTPro-Regular.otf"; path = "../static/fonts/AvenirNextLTPro-Regular.otf"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* RNSvgTests-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "RNSvgTests-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* RNSvgTests-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "RNSvgTests-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E3E8A5FB37941D5BFE084C7 /* libRNSVG.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNSVG.a; sourceTree = "<group>"; };
@@ -327,6 +332,7 @@
 		782F88C4A32F4E45B6DDC886 /* libRNViewShot.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNViewShot.a; sourceTree = "<group>"; };
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
+		ED97D317C28B4D6597C2C7B5 /* AvenirNextLTPro-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "AvenirNextLTPro-Bold.otf"; path = "../static/fonts/AvenirNextLTPro-Bold.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -494,6 +500,16 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		559E14CCE4064933A066BE1C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				ED97D317C28B4D6597C2C7B5 /* AvenirNextLTPro-Bold.otf */,
+				07F9E5F8A6B14B539B42F896 /* AvenirNextLTPro-It.otf */,
+				2AC365F209DE4C89927B8B5E /* AvenirNextLTPro-Regular.otf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		5E91572E1DD0AC6500FF2AA8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -549,6 +565,8 @@
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* RNSvgTestsTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
+				559E14CCE4064933A066BE1C /* Resources */,
+				9494C2501F45F66200D5BCFD /* Frameworks */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -589,6 +607,13 @@
 				947752F51F3C8D5C001DC208 /* libRNViewShot.a */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		9494C2501F45F66200D5BCFD /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -672,7 +697,7 @@
 		83CBB9F71A601CBA00E9B192 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0830;
+				LastUpgradeCheck = 830;
 				ORGANIZATIONNAME = Facebook;
 				TargetAttributes = {
 					00E356ED1AD99517003FC87E = {
@@ -1024,6 +1049,9 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+				8C771FD9A75440AE842AD50F /* AvenirNextLTPro-Bold.otf in Resources */,
+				3ED6F18A717B45E387DAB9E6 /* AvenirNextLTPro-It.otf in Resources */,
+				C6D40AFB0F3048CE97E3B77F /* AvenirNextLTPro-Regular.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1217,8 +1245,10 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
+					"-ObjC++",
+					"-lstdc++",
+					"-all_load",
 					"-ObjC",
-					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = RNSvgTests;
@@ -1241,8 +1271,10 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
+					"-ObjC++",
+					"-lstdc++",
+					"-all_load",
 					"-ObjC",
-					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = RNSvgTests;
