@@ -23,7 +23,7 @@ export default ({ width, height, native, sharp }) =>
       kerning="0"
     >
       <TextPath href="#textpath"
-                midLine={sharp ? 'sharp' : 'smooth'}
+                {...(native ? {midLine: sharp ? 'sharp' : 'smooth'} : null)}
 
       >
         <TSpan

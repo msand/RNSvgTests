@@ -17,7 +17,7 @@ export default ({ width, height, native, sharp, letterSpacing }) =>
     <Text
       stroke="#000"
       fontFamily="AvenirNextLTPro-Regular"
-      fontSize="24"
+      fontSize={24}
       wordSpacing="0"
       letterSpacing={letterSpacing}
       x="0"
@@ -25,7 +25,7 @@ export default ({ width, height, native, sharp, letterSpacing }) =>
       style={{'font-kerning': 'none'}}
     >
       <TextPath href="#textpath" startOffset="0%"
-                midLine={sharp ? 'sharp' : 'smooth'}
+                {...(native ? {midLine: sharp ? 'sharp' : 'smooth'} : null)}
       >
         <TSpan dx="-369" dy="-5" baselineShift="10">
         SVG Text on a linear path test, testing 1, 2, 3, fi.
