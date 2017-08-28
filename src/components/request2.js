@@ -21,16 +21,17 @@ export default ({ width, height, native, sharp, letterSpacing }) =>
       wordSpacing="0"
       letterSpacing={letterSpacing}
       x="0"
-      y="5"
+      y="0"
       style={{'font-kerning': 'none'}}
+      kerning="10"
     >
       <TextPath href="#textpath" startOffset="0%"
                 {...(native ? {midLine: sharp ? 'sharp' : 'smooth'} : null)}
       >
-        <TSpan dx="-369" dy="-5" baselineShift="10">
+        <TSpan dx="-369" dy="0">
         SVG Text on a linear path test, testing 1, 2, 3, fi.
         </TSpan>
       </TextPath>
     </Text>
-    <Rect x="200" y="0" width="330" height="240" strokeWidth="1px" stroke="black" fill="none" />
+    <Rect x="200" y="0" width="330" height="240" strokeWidth="5px" stroke="black" fill="none" />
   </Svg>;
