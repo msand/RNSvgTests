@@ -18,13 +18,14 @@
 		"babel-preset-react": "^6.24.1",
 		"babel-preset-stage-1": "^6.24.1",
 		"base64-arraybuffer": "^0.1.5",
-		"next": "^3.0.6",
+		"next": "^3.2.2",
 		"opentype.js": "^0.7.3",
-		"react": "16.0.0-alpha.12",
-		"react-dom": "16.0.0-alpha.12",
-		"react-native": "0.47.1",
+		"prop-types": "15.5.10",
+		"react": "^15.6.1",
+		"react-dom": "^15.6.1",
+		"react-native": "0.42.3",
 		"react-native-fs": "^2.5.1",
-		"react-native-svg": "https://github.com/msand/react-native-svg.git#8dd795b",
+		"react-native-svg": "https://github.com/msand/react-native-svg.git#2181798",
 		"react-native-view-shot": "^1.10.1",
 		"svgs": "^3.0.1",
 		"victory-native": "^0.14.0"
@@ -33,7 +34,7 @@
 		"babel-jest": "20.0.3",
 		"babel-preset-react-native": "2.1.0",
 		"jest": "20.0.4",
-		"react-test-renderer": "16.0.0-alpha.12"
+		"react-test-renderer": "15.4.1"
 	},
 	"jest": {
 		"preset": "react-native"
